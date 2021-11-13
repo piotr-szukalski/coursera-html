@@ -1,0 +1,26 @@
+
+#chicken-row {
+    height: 2000px;
+    background-color: lightgray;
+    margin-top: 50px;
+}
+
+
+.menu-item {
+    font-size: 120%;
+    font-weight: bold;
+    text-align: center;
+}
+
+.item-description {
+    font-size: 100%;
+}
+
+#navbarsExample01 {
+    background-color: brown;
+    
+}
+
+#navbarsExample01 a:hover {
+    background-color: blueviolet;
+}
